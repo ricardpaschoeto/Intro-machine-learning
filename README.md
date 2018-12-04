@@ -1,2 +1,2 @@
-# Intro-macjhine-learning
+# Intro-machine-learning
 Nanodegree Udacity to introduce machine learning
